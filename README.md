@@ -1,10 +1,9 @@
 # ✨ Selam Selam! ✨
 
 ## Bamlak here
-<a href="https://www.instagram.com/bamlak.ai/">
-  <img align="left" alt="Bamlak's Instagram" width="22px" src="https://www.instagram.com/favicon.ico" />
+<a href="https://www.buymeacoffee.com/ethiopia"> 
+  Coffee?
 </a>
-
 
   <img align="right" alt="GIF" src="https://github.com/habeshahome/habeshahome/blob/main/code.gif?raw=true" width="500" height="320" />
   
